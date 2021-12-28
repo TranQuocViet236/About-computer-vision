@@ -1,4 +1,4 @@
-# About-text-detection
+# About text detection and recognition
 
 * https://github.com/clovaai/deep-text-recognition-benchmark
 * https://github.com/clovaai/CRAFT-pytorch
